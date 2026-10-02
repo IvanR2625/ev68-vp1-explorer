@@ -1,0 +1,44 @@
+name: Update Sequence Data
+
+on:
+  schedule:
+    # 1st of each month at 06:00 UTC
+    - cron: "0 6 1 * *"
+  workflow_dispatch:
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install bioinformatics tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y mafft fasttree
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - name: Install Python deps
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Run pipeline
+        env:
+          NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+        run: python pipeline/run_pipeline.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web/public/data/
+          if git diff --staged --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "data: refresh sequences $(date -u +%Y-%m-%d)"
+            git push
+          fi
