@@ -1,0 +1,1692 @@
+{
+  "reference": "Fermon_prototype_1962",
+  "per_year": [
+    {
+      "year": 2014,
+      "count": 14,
+      "mean": 0.018029,
+      "stdev": 0.003565,
+      "min": 0.008351,
+      "max": 0.021952,
+      "sequences": [
+        {
+          "accession": "KM942127",
+          "year": 2014,
+          "country": "France",
+          "distance": 0.008351,
+          "strain": "EV-D68/France/2014/08",
+          "clade": "A"
+        },
+        {
+          "accession": "KM942128",
+          "year": 2014,
+          "country": "Netherlands",
+          "distance": 0.015689,
+          "strain": "EV-D68/Netherlands/2014/09",
+          "clade": "B"
+        },
+        {
+          "accession": "KM942131",
+          "year": 2014,
+          "country": "France",
+          "distance": 0.015829,
+          "strain": "EV-D68/France/2014/12",
+          "clade": "A"
+        },
+        {
+          "accession": "KM942122",
+          "year": 2014,
+          "country": "United Kingdom",
+          "distance": 0.015971,
+          "strain": "EV-D68/United_Kingdom/2014/03",
+          "clade": "B"
+        },
+        {
+          "accession": "KM942132",
+          "year": 2014,
+          "country": "USA",
+          "distance": 0.017129,
+          "strain": "EV-D68/USA/2014/13",
+          "clade": "A"
+        },
+        {
+          "accession": "KM942129",
+          "year": 2014,
+          "country": "Sweden",
+          "distance": 0.017418,
+          "strain": "EV-D68/Sweden/2014/10",
+          "clade": "B"
+        },
+        {
+          "accession": "KM942125",
+          "year": 2014,
+          "country": "Brazil",
+          "distance": 0.017778,
+          "strain": "EV-D68/Brazil/2014/06",
+          "clade": "A"
+        },
+        {
+          "accession": "KM942120",
+          "year": 2014,
+          "country": "Germany",
+          "distance": 0.018648,
+          "strain": "EV-D68/Germany/2014/01",
+          "clade": "A"
+        },
+        {
+          "accession": "KM942124",
+          "year": 2014,
+          "country": "Netherlands",
+          "distance": 0.019096,
+          "strain": "EV-D68/Netherlands/2014/05",
+          "clade": "B"
+        },
+        {
+          "accession": "KM942130",
+          "year": 2014,
+          "country": "Japan",
+          "distance": 0.020784,
+          "strain": "EV-D68/Japan/2014/11",
+          "clade": "A"
+        },
+        {
+          "accession": "KM942123",
+          "year": 2014,
+          "country": "USA",
+          "distance": 0.021081,
+          "strain": "EV-D68/USA/2014/04",
+          "clade": "B"
+        },
+        {
+          "accession": "KM942126",
+          "year": 2014,
+          "country": "Japan",
+          "distance": 0.021324,
+          "strain": "EV-D68/Japan/2014/07",
+          "clade": "B"
+        },
+        {
+          "accession": "KM942121",
+          "year": 2014,
+          "country": "South Korea",
+          "distance": 0.021359,
+          "strain": "EV-D68/South_Korea/2014/02",
+          "clade": "A"
+        },
+        {
+          "accession": "KM942133",
+          "year": 2014,
+          "country": "Brazil",
+          "distance": 0.021952,
+          "strain": "EV-D68/Brazil/2014/14",
+          "clade": "A"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "count": 13,
+      "mean": 0.021069,
+      "stdev": 0.002867,
+      "min": 0.01609,
+      "max": 0.025784,
+      "sequences": [
+        {
+          "accession": "KP942162",
+          "year": 2015,
+          "country": "USA",
+          "distance": 0.01609,
+          "strain": "EV-D68/USA/2015/13",
+          "clade": "A"
+        },
+        {
+          "accession": "KP942154",
+          "year": 2015,
+          "country": "USA",
+          "distance": 0.018274,
+          "strain": "EV-D68/USA/2015/05",
+          "clade": "A"
+        },
+        {
+          "accession": "KP942158",
+          "year": 2015,
+          "country": "USA",
+          "distance": 0.018957,
+          "strain": "EV-D68/USA/2015/09",
+          "clade": "A"
+        },
+        {
+          "accession": "KP942157",
+          "year": 2015,
+          "country": "Sweden",
+          "distance": 0.01917,
+          "strain": "EV-D68/Sweden/2015/08",
+          "clade": "A"
+        },
+        {
+          "accession": "KP942150",
+          "year": 2015,
+          "country": "Germany",
+          "distance": 0.019629,
+          "strain": "EV-D68/Germany/2015/01",
+          "clade": "B"
+        },
+        {
+          "accession": "KP942156",
+          "year": 2015,
+          "country": "USA",
+          "distance": 0.019879,
+          "strain": "EV-D68/USA/2015/07",
+          "clade": "B"
+        },
+        {
+          "accession": "KP942152",
+          "year": 2015,
+          "country": "Germany",
+          "distance": 0.020586,
+          "strain": "EV-D68/Germany/2015/03",
+          "clade": "B"
+        },
+        {
+          "accession": "KP942160",
+          "year": 2015,
+          "country": "Japan",
+          "distance": 0.020745,
+          "strain": "EV-D68/Japan/2015/11",
+          "clade": "A"
+        },
+        {
+          "accession": "KP942161",
+          "year": 2015,
+          "country": "Germany",
+          "distance": 0.022604,
+          "strain": "EV-D68/Germany/2015/12",
+          "clade": "B"
+        },
+        {
+          "accession": "KP942151",
+          "year": 2015,
+          "country": "Spain",
+          "distance": 0.022706,
+          "strain": "EV-D68/Spain/2015/02",
+          "clade": "A"
+        },
+        {
+          "accession": "KP942159",
+          "year": 2015,
+          "country": "Canada",
+          "distance": 0.024699,
+          "strain": "EV-D68/Canada/2015/10",
+          "clade": "A"
+        },
+        {
+          "accession": "KP942155",
+          "year": 2015,
+          "country": "France",
+          "distance": 0.024769,
+          "strain": "EV-D68/France/2015/06",
+          "clade": "A"
+        },
+        {
+          "accession": "KP942153",
+          "year": 2015,
+          "country": "USA",
+          "distance": 0.025784,
+          "strain": "EV-D68/USA/2015/04",
+          "clade": "A"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "count": 20,
+      "mean": 0.030984,
+      "stdev": 0.005664,
+      "min": 0.021092,
+      "max": 0.040089,
+      "sequences": [
+        {
+          "accession": "KX942184",
+          "year": 2016,
+          "country": "Japan",
+          "distance": 0.021092,
+          "strain": "EV-D68/Japan/2016/05",
+          "clade": "A"
+        },
+        {
+          "accession": "KX942197",
+          "year": 2016,
+          "country": "Japan",
+          "distance": 0.021847,
+          "strain": "EV-D68/Japan/2016/18",
+          "clade": "A"
+        },
+        {
+          "accession": "KX942181",
+          "year": 2016,
+          "country": "USA",
+          "distance": 0.025629,
+          "strain": "EV-D68/USA/2016/02",
+          "clade": "B"
+        },
+        {
+          "accession": "KX942191",
+          "year": 2016,
+          "country": "Sweden",
+          "distance": 0.026303,
+          "strain": "EV-D68/Sweden/2016/12",
+          "clade": "C"
+        },
+        {
+          "accession": "KX942198",
+          "year": 2016,
+          "country": "Germany",
+          "distance": 0.026471,
+          "strain": "EV-D68/Germany/2016/19",
+          "clade": "C"
+        },
+        {
+          "accession": "KX942186",
+          "year": 2016,
+          "country": "USA",
+          "distance": 0.028382,
+          "strain": "EV-D68/USA/2016/07",
+          "clade": "A"
+        },
+        {
+          "accession": "KX942188",
+          "year": 2016,
+          "country": "United Kingdom",
+          "distance": 0.028861,
+          "strain": "EV-D68/United_Kingdom/2016/09",
+          "clade": "A"
+        },
+        {
+          "accession": "KX942194",
+          "year": 2016,
+          "country": "Germany",
+          "distance": 0.028943,
+          "strain": "EV-D68/Germany/2016/15",
+          "clade": "A"
+        },
+        {
+          "accession": "KX942183",
+          "year": 2016,
+          "country": "Spain",
+          "distance": 0.029209,
+          "strain": "EV-D68/Spain/2016/04",
+          "clade": "C"
+        },
+        {
+          "accession": "KX942185",
+          "year": 2016,
+          "country": "France",
+          "distance": 0.030671,
+          "strain": "EV-D68/France/2016/06",
+          "clade": "C"
+        },
+        {
+          "accession": "KX942180",
+          "year": 2016,
+          "country": "Netherlands",
+          "distance": 0.03077,
+          "strain": "EV-D68/Netherlands/2016/01",
+          "clade": "A"
+        },
+        {
+          "accession": "KX942189",
+          "year": 2016,
+          "country": "China",
+          "distance": 0.03077,
+          "strain": "EV-D68/China/2016/10",
+          "clade": "B"
+        },
+        {
+          "accession": "KX942193",
+          "year": 2016,
+          "country": "China",
+          "distance": 0.031018,
+          "strain": "EV-D68/China/2016/14",
+          "clade": "B"
+        },
+        {
+          "accession": "KX942187",
+          "year": 2016,
+          "country": "India",
+          "distance": 0.031793,
+          "strain": "EV-D68/India/2016/08",
+          "clade": "A"
+        },
+        {
+          "accession": "KX942192",
+          "year": 2016,
+          "country": "USA",
+          "distance": 0.032315,
+          "strain": "EV-D68/USA/2016/13",
+          "clade": "C"
+        },
+        {
+          "accession": "KX942195",
+          "year": 2016,
+          "country": "Germany",
+          "distance": 0.037444,
+          "strain": "EV-D68/Germany/2016/16",
+          "clade": "B"
+        },
+        {
+          "accession": "KX942182",
+          "year": 2016,
+          "country": "USA",
+          "distance": 0.038532,
+          "strain": "EV-D68/USA/2016/03",
+          "clade": "A"
+        },
+        {
+          "accession": "KX942199",
+          "year": 2016,
+          "country": "South Korea",
+          "distance": 0.039533,
+          "strain": "EV-D68/South_Korea/2016/20",
+          "clade": "B"
+        },
+        {
+          "accession": "KX942190",
+          "year": 2016,
+          "country": "China",
+          "distance": 0.040007,
+          "strain": "EV-D68/China/2016/11",
+          "clade": "A"
+        },
+        {
+          "accession": "KX942196",
+          "year": 2016,
+          "country": "USA",
+          "distance": 0.040089,
+          "strain": "EV-D68/USA/2016/17",
+          "clade": "B"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "count": 18,
+      "mean": 0.036572,
+      "stdev": 0.007821,
+      "min": 0.016321,
+      "max": 0.04833,
+      "sequences": [
+        {
+          "accession": "MF942217",
+          "year": 2017,
+          "country": "USA",
+          "distance": 0.016321,
+          "strain": "EV-D68/USA/2017/08",
+          "clade": "B"
+        },
+        {
+          "accession": "MF942216",
+          "year": 2017,
+          "country": "Japan",
+          "distance": 0.025673,
+          "strain": "EV-D68/Japan/2017/07",
+          "clade": "C"
+        },
+        {
+          "accession": "MF942218",
+          "year": 2017,
+          "country": "India",
+          "distance": 0.028106,
+          "strain": "EV-D68/India/2017/09",
+          "clade": "C"
+        },
+        {
+          "accession": "MF942223",
+          "year": 2017,
+          "country": "Spain",
+          "distance": 0.030893,
+          "strain": "EV-D68/Spain/2017/14",
+          "clade": "C"
+        },
+        {
+          "accession": "MF942213",
+          "year": 2017,
+          "country": "Germany",
+          "distance": 0.032172,
+          "strain": "EV-D68/Germany/2017/04",
+          "clade": "A"
+        },
+        {
+          "accession": "MF942210",
+          "year": 2017,
+          "country": "USA",
+          "distance": 0.033107,
+          "strain": "EV-D68/USA/2017/01",
+          "clade": "B"
+        },
+        {
+          "accession": "MF942212",
+          "year": 2017,
+          "country": "France",
+          "distance": 0.034679,
+          "strain": "EV-D68/France/2017/03",
+          "clade": "A"
+        },
+        {
+          "accession": "MF942214",
+          "year": 2017,
+          "country": "China",
+          "distance": 0.038198,
+          "strain": "EV-D68/China/2017/05",
+          "clade": "B"
+        },
+        {
+          "accession": "MF942221",
+          "year": 2017,
+          "country": "USA",
+          "distance": 0.038208,
+          "strain": "EV-D68/USA/2017/12",
+          "clade": "C"
+        },
+        {
+          "accession": "MF942226",
+          "year": 2017,
+          "country": "USA",
+          "distance": 0.038455,
+          "strain": "EV-D68/USA/2017/17",
+          "clade": "B"
+        },
+        {
+          "accession": "MF942220",
+          "year": 2017,
+          "country": "USA",
+          "distance": 0.039791,
+          "strain": "EV-D68/USA/2017/11",
+          "clade": "B"
+        },
+        {
+          "accession": "MF942225",
+          "year": 2017,
+          "country": "USA",
+          "distance": 0.040019,
+          "strain": "EV-D68/USA/2017/16",
+          "clade": "B"
+        },
+        {
+          "accession": "MF942222",
+          "year": 2017,
+          "country": "South Korea",
+          "distance": 0.041599,
+          "strain": "EV-D68/South_Korea/2017/13",
+          "clade": "A"
+        },
+        {
+          "accession": "MF942227",
+          "year": 2017,
+          "country": "China",
+          "distance": 0.042082,
+          "strain": "EV-D68/China/2017/18",
+          "clade": "A"
+        },
+        {
+          "accession": "MF942215",
+          "year": 2017,
+          "country": "Canada",
+          "distance": 0.042883,
+          "strain": "EV-D68/Canada/2017/06",
+          "clade": "A"
+        },
+        {
+          "accession": "MF942219",
+          "year": 2017,
+          "country": "Japan",
+          "distance": 0.043596,
+          "strain": "EV-D68/Japan/2017/10",
+          "clade": "B"
+        },
+        {
+          "accession": "MF942224",
+          "year": 2017,
+          "country": "Canada",
+          "distance": 0.044175,
+          "strain": "EV-D68/Canada/2017/15",
+          "clade": "B"
+        },
+        {
+          "accession": "MF942211",
+          "year": 2017,
+          "country": "Germany",
+          "distance": 0.04833,
+          "strain": "EV-D68/Germany/2017/02",
+          "clade": "A"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "count": 13,
+      "mean": 0.045638,
+      "stdev": 0.006726,
+      "min": 0.030268,
+      "max": 0.054407,
+      "sequences": [
+        {
+          "accession": "MH942242",
+          "year": 2018,
+          "country": "Netherlands",
+          "distance": 0.030268,
+          "strain": "EV-D68/Netherlands/2018/03",
+          "clade": "C"
+        },
+        {
+          "accession": "MH942245",
+          "year": 2018,
+          "country": "Spain",
+          "distance": 0.037587,
+          "strain": "EV-D68/Spain/2018/06",
+          "clade": "A"
+        },
+        {
+          "accession": "MH942243",
+          "year": 2018,
+          "country": "USA",
+          "distance": 0.041986,
+          "strain": "EV-D68/USA/2018/04",
+          "clade": "B"
+        },
+        {
+          "accession": "MH942250",
+          "year": 2018,
+          "country": "USA",
+          "distance": 0.042788,
+          "strain": "EV-D68/USA/2018/11",
+          "clade": "A"
+        },
+        {
+          "accession": "MH942248",
+          "year": 2018,
+          "country": "USA",
+          "distance": 0.042834,
+          "strain": "EV-D68/USA/2018/09",
+          "clade": "A"
+        },
+        {
+          "accession": "MH942251",
+          "year": 2018,
+          "country": "Japan",
+          "distance": 0.044102,
+          "strain": "EV-D68/Japan/2018/12",
+          "clade": "B"
+        },
+        {
+          "accession": "MH942252",
+          "year": 2018,
+          "country": "USA",
+          "distance": 0.046391,
+          "strain": "EV-D68/USA/2018/13",
+          "clade": "B"
+        },
+        {
+          "accession": "MH942247",
+          "year": 2018,
+          "country": "China",
+          "distance": 0.048035,
+          "strain": "EV-D68/China/2018/08",
+          "clade": "B"
+        },
+        {
+          "accession": "MH942244",
+          "year": 2018,
+          "country": "Australia",
+          "distance": 0.050156,
+          "strain": "EV-D68/Australia/2018/05",
+          "clade": "D"
+        },
+        {
+          "accession": "MH942249",
+          "year": 2018,
+          "country": "France",
+          "distance": 0.050943,
+          "strain": "EV-D68/France/2018/10",
+          "clade": "C"
+        },
+        {
+          "accession": "MH942240",
+          "year": 2018,
+          "country": "Sweden",
+          "distance": 0.051675,
+          "strain": "EV-D68/Sweden/2018/01",
+          "clade": "A"
+        },
+        {
+          "accession": "MH942241",
+          "year": 2018,
+          "country": "USA",
+          "distance": 0.052118,
+          "strain": "EV-D68/USA/2018/02",
+          "clade": "B"
+        },
+        {
+          "accession": "MH942246",
+          "year": 2018,
+          "country": "Canada",
+          "distance": 0.054407,
+          "strain": "EV-D68/Canada/2018/07",
+          "clade": "C"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "count": 18,
+      "mean": 0.04597,
+      "stdev": 0.009038,
+      "min": 0.032789,
+      "max": 0.065507,
+      "sequences": [
+        {
+          "accession": "MK942284",
+          "year": 2019,
+          "country": "Germany",
+          "distance": 0.032789,
+          "strain": "EV-D68/Germany/2019/15",
+          "clade": "C"
+        },
+        {
+          "accession": "MK942278",
+          "year": 2019,
+          "country": "Japan",
+          "distance": 0.035124,
+          "strain": "EV-D68/Japan/2019/09",
+          "clade": "D"
+        },
+        {
+          "accession": "MK942276",
+          "year": 2019,
+          "country": "Japan",
+          "distance": 0.035218,
+          "strain": "EV-D68/Japan/2019/07",
+          "clade": "B"
+        },
+        {
+          "accession": "MK942279",
+          "year": 2019,
+          "country": "South Korea",
+          "distance": 0.036105,
+          "strain": "EV-D68/South_Korea/2019/10",
+          "clade": "D"
+        },
+        {
+          "accession": "MK942283",
+          "year": 2019,
+          "country": "South Korea",
+          "distance": 0.036888,
+          "strain": "EV-D68/South_Korea/2019/14",
+          "clade": "D"
+        },
+        {
+          "accession": "MK942275",
+          "year": 2019,
+          "country": "Canada",
+          "distance": 0.042255,
+          "strain": "EV-D68/Canada/2019/06",
+          "clade": "C"
+        },
+        {
+          "accession": "MK942274",
+          "year": 2019,
+          "country": "South Korea",
+          "distance": 0.0433,
+          "strain": "EV-D68/South_Korea/2019/05",
+          "clade": "B"
+        },
+        {
+          "accession": "MK942272",
+          "year": 2019,
+          "country": "Sweden",
+          "distance": 0.043681,
+          "strain": "EV-D68/Sweden/2019/03",
+          "clade": "D"
+        },
+        {
+          "accession": "MK942287",
+          "year": 2019,
+          "country": "Germany",
+          "distance": 0.043796,
+          "strain": "EV-D68/Germany/2019/18",
+          "clade": "B"
+        },
+        {
+          "accession": "MK942271",
+          "year": 2019,
+          "country": "Spain",
+          "distance": 0.047638,
+          "strain": "EV-D68/Spain/2019/02",
+          "clade": "D"
+        },
+        {
+          "accession": "MK942286",
+          "year": 2019,
+          "country": "United Kingdom",
+          "distance": 0.047696,
+          "strain": "EV-D68/United_Kingdom/2019/17",
+          "clade": "D"
+        },
+        {
+          "accession": "MK942281",
+          "year": 2019,
+          "country": "Sweden",
+          "distance": 0.047778,
+          "strain": "EV-D68/Sweden/2019/12",
+          "clade": "B"
+        },
+        {
+          "accession": "MK942270",
+          "year": 2019,
+          "country": "Germany",
+          "distance": 0.049109,
+          "strain": "EV-D68/Germany/2019/01",
+          "clade": "C"
+        },
+        {
+          "accession": "MK942273",
+          "year": 2019,
+          "country": "Netherlands",
+          "distance": 0.051024,
+          "strain": "EV-D68/Netherlands/2019/04",
+          "clade": "C"
+        },
+        {
+          "accession": "MK942280",
+          "year": 2019,
+          "country": "Japan",
+          "distance": 0.054415,
+          "strain": "EV-D68/Japan/2019/11",
+          "clade": "B"
+        },
+        {
+          "accession": "MK942282",
+          "year": 2019,
+          "country": "Netherlands",
+          "distance": 0.05604,
+          "strain": "EV-D68/Netherlands/2019/13",
+          "clade": "C"
+        },
+        {
+          "accession": "MK942285",
+          "year": 2019,
+          "country": "China",
+          "distance": 0.059092,
+          "strain": "EV-D68/China/2019/16",
+          "clade": "D"
+        },
+        {
+          "accession": "MK942277",
+          "year": 2019,
+          "country": "USA",
+          "distance": 0.065507,
+          "strain": "EV-D68/USA/2019/08",
+          "clade": "B"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "count": 24,
+      "mean": 0.05269,
+      "stdev": 0.010926,
+      "min": 0.031587,
+      "max": 0.073683,
+      "sequences": [
+        {
+          "accession": "MT942319",
+          "year": 2020,
+          "country": "United Kingdom",
+          "distance": 0.031587,
+          "strain": "EV-D68/United_Kingdom/2020/20",
+          "clade": "C"
+        },
+        {
+          "accession": "MT942310",
+          "year": 2020,
+          "country": "Japan",
+          "distance": 0.032857,
+          "strain": "EV-D68/Japan/2020/11",
+          "clade": "D"
+        },
+        {
+          "accession": "MT942316",
+          "year": 2020,
+          "country": "Germany",
+          "distance": 0.041039,
+          "strain": "EV-D68/Germany/2020/17",
+          "clade": "B"
+        },
+        {
+          "accession": "MT942302",
+          "year": 2020,
+          "country": "United Kingdom",
+          "distance": 0.044241,
+          "strain": "EV-D68/United_Kingdom/2020/03",
+          "clade": "B"
+        },
+        {
+          "accession": "MT942306",
+          "year": 2020,
+          "country": "USA",
+          "distance": 0.044412,
+          "strain": "EV-D68/USA/2020/07",
+          "clade": "D"
+        },
+        {
+          "accession": "MT942315",
+          "year": 2020,
+          "country": "USA",
+          "distance": 0.044413,
+          "strain": "EV-D68/USA/2020/16",
+          "clade": "C"
+        },
+        {
+          "accession": "MT942323",
+          "year": 2020,
+          "country": "Canada",
+          "distance": 0.045698,
+          "strain": "EV-D68/Canada/2020/24",
+          "clade": "C"
+        },
+        {
+          "accession": "MT942304",
+          "year": 2020,
+          "country": "Germany",
+          "distance": 0.04812,
+          "strain": "EV-D68/Germany/2020/05",
+          "clade": "D"
+        },
+        {
+          "accession": "MT942300",
+          "year": 2020,
+          "country": "United Kingdom",
+          "distance": 0.048601,
+          "strain": "EV-D68/United_Kingdom/2020/01",
+          "clade": "D"
+        },
+        {
+          "accession": "MT942307",
+          "year": 2020,
+          "country": "United Kingdom",
+          "distance": 0.048935,
+          "strain": "EV-D68/United_Kingdom/2020/08",
+          "clade": "D"
+        },
+        {
+          "accession": "MT942311",
+          "year": 2020,
+          "country": "Sweden",
+          "distance": 0.049529,
+          "strain": "EV-D68/Sweden/2020/12",
+          "clade": "B"
+        },
+        {
+          "accession": "MT942314",
+          "year": 2020,
+          "country": "USA",
+          "distance": 0.051636,
+          "strain": "EV-D68/USA/2020/15",
+          "clade": "C"
+        },
+        {
+          "accession": "MT942318",
+          "year": 2020,
+          "country": "USA",
+          "distance": 0.051775,
+          "strain": "EV-D68/USA/2020/19",
+          "clade": "D"
+        },
+        {
+          "accession": "MT942320",
+          "year": 2020,
+          "country": "United Kingdom",
+          "distance": 0.054904,
+          "strain": "EV-D68/United_Kingdom/2020/21",
+          "clade": "C"
+        },
+        {
+          "accession": "MT942321",
+          "year": 2020,
+          "country": "Germany",
+          "distance": 0.055013,
+          "strain": "EV-D68/Germany/2020/22",
+          "clade": "C"
+        },
+        {
+          "accession": "MT942305",
+          "year": 2020,
+          "country": "USA",
+          "distance": 0.055078,
+          "strain": "EV-D68/USA/2020/06",
+          "clade": "D"
+        },
+        {
+          "accession": "MT942317",
+          "year": 2020,
+          "country": "India",
+          "distance": 0.055992,
+          "strain": "EV-D68/India/2020/18",
+          "clade": "B"
+        },
+        {
+          "accession": "MT942322",
+          "year": 2020,
+          "country": "South Korea",
+          "distance": 0.058807,
+          "strain": "EV-D68/South_Korea/2020/23",
+          "clade": "B"
+        },
+        {
+          "accession": "MT942312",
+          "year": 2020,
+          "country": "USA",
+          "distance": 0.059261,
+          "strain": "EV-D68/USA/2020/13",
+          "clade": "C"
+        },
+        {
+          "accession": "MT942309",
+          "year": 2020,
+          "country": "Germany",
+          "distance": 0.061505,
+          "strain": "EV-D68/Germany/2020/10",
+          "clade": "C"
+        },
+        {
+          "accession": "MT942313",
+          "year": 2020,
+          "country": "China",
+          "distance": 0.066582,
+          "strain": "EV-D68/China/2020/14",
+          "clade": "D"
+        },
+        {
+          "accession": "MT942301",
+          "year": 2020,
+          "country": "China",
+          "distance": 0.069899,
+          "strain": "EV-D68/China/2020/02",
+          "clade": "B"
+        },
+        {
+          "accession": "MT942303",
+          "year": 2020,
+          "country": "Netherlands",
+          "distance": 0.071001,
+          "strain": "EV-D68/Netherlands/2020/04",
+          "clade": "D"
+        },
+        {
+          "accession": "MT942308",
+          "year": 2020,
+          "country": "South Korea",
+          "distance": 0.073683,
+          "strain": "EV-D68/South_Korea/2020/09",
+          "clade": "C"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "count": 22,
+      "mean": 0.05087,
+      "stdev": 0.008763,
+      "min": 0.033322,
+      "max": 0.074803,
+      "sequences": [
+        {
+          "accession": "MW942339",
+          "year": 2021,
+          "country": "USA",
+          "distance": 0.033322,
+          "strain": "EV-D68/USA/2021/10",
+          "clade": "D"
+        },
+        {
+          "accession": "MW942334",
+          "year": 2021,
+          "country": "Germany",
+          "distance": 0.042051,
+          "strain": "EV-D68/Germany/2021/05",
+          "clade": "C"
+        },
+        {
+          "accession": "MW942350",
+          "year": 2021,
+          "country": "USA",
+          "distance": 0.042304,
+          "strain": "EV-D68/USA/2021/21",
+          "clade": "C"
+        },
+        {
+          "accession": "MW942337",
+          "year": 2021,
+          "country": "Germany",
+          "distance": 0.042579,
+          "strain": "EV-D68/Germany/2021/08",
+          "clade": "C"
+        },
+        {
+          "accession": "MW942331",
+          "year": 2021,
+          "country": "USA",
+          "distance": 0.045121,
+          "strain": "EV-D68/USA/2021/02",
+          "clade": "D"
+        },
+        {
+          "accession": "MW942340",
+          "year": 2021,
+          "country": "Spain",
+          "distance": 0.046366,
+          "strain": "EV-D68/Spain/2021/11",
+          "clade": "D"
+        },
+        {
+          "accession": "MW942336",
+          "year": 2021,
+          "country": "South Korea",
+          "distance": 0.046369,
+          "strain": "EV-D68/South_Korea/2021/07",
+          "clade": "D"
+        },
+        {
+          "accession": "MW942332",
+          "year": 2021,
+          "country": "Germany",
+          "distance": 0.046939,
+          "strain": "EV-D68/Germany/2021/03",
+          "clade": "D"
+        },
+        {
+          "accession": "MW942349",
+          "year": 2021,
+          "country": "France",
+          "distance": 0.047579,
+          "strain": "EV-D68/France/2021/20",
+          "clade": "C"
+        },
+        {
+          "accession": "MW942345",
+          "year": 2021,
+          "country": "United Kingdom",
+          "distance": 0.048572,
+          "strain": "EV-D68/United_Kingdom/2021/16",
+          "clade": "C"
+        },
+        {
+          "accession": "MW942330",
+          "year": 2021,
+          "country": "Japan",
+          "distance": 0.04953,
+          "strain": "EV-D68/Japan/2021/01",
+          "clade": "D"
+        },
+        {
+          "accession": "MW942342",
+          "year": 2021,
+          "country": "Japan",
+          "distance": 0.050525,
+          "strain": "EV-D68/Japan/2021/13",
+          "clade": "B"
+        },
+        {
+          "accession": "MW942351",
+          "year": 2021,
+          "country": "Australia",
+          "distance": 0.050908,
+          "strain": "EV-D68/Australia/2021/22",
+          "clade": "D"
+        },
+        {
+          "accession": "MW942346",
+          "year": 2021,
+          "country": "Netherlands",
+          "distance": 0.051669,
+          "strain": "EV-D68/Netherlands/2021/17",
+          "clade": "D"
+        },
+        {
+          "accession": "MW942347",
+          "year": 2021,
+          "country": "France",
+          "distance": 0.05349,
+          "strain": "EV-D68/France/2021/18",
+          "clade": "B"
+        },
+        {
+          "accession": "MW942348",
+          "year": 2021,
+          "country": "USA",
+          "distance": 0.053781,
+          "strain": "EV-D68/USA/2021/19",
+          "clade": "B"
+        },
+        {
+          "accession": "MW942341",
+          "year": 2021,
+          "country": "Italy",
+          "distance": 0.054557,
+          "strain": "EV-D68/Italy/2021/12",
+          "clade": "C"
+        },
+        {
+          "accession": "MW942338",
+          "year": 2021,
+          "country": "Netherlands",
+          "distance": 0.054619,
+          "strain": "EV-D68/Netherlands/2021/09",
+          "clade": "D"
+        },
+        {
+          "accession": "MW942335",
+          "year": 2021,
+          "country": "United Kingdom",
+          "distance": 0.057491,
+          "strain": "EV-D68/United_Kingdom/2021/06",
+          "clade": "C"
+        },
+        {
+          "accession": "MW942344",
+          "year": 2021,
+          "country": "Sweden",
+          "distance": 0.061123,
+          "strain": "EV-D68/Sweden/2021/15",
+          "clade": "C"
+        },
+        {
+          "accession": "MW942333",
+          "year": 2021,
+          "country": "Germany",
+          "distance": 0.065447,
+          "strain": "EV-D68/Germany/2021/04",
+          "clade": "C"
+        },
+        {
+          "accession": "MW942343",
+          "year": 2021,
+          "country": "USA",
+          "distance": 0.074803,
+          "strain": "EV-D68/USA/2021/14",
+          "clade": "C"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "count": 22,
+      "mean": 0.055538,
+      "stdev": 0.009677,
+      "min": 0.04271,
+      "max": 0.075408,
+      "sequences": [
+        {
+          "accession": "OP942375",
+          "year": 2022,
+          "country": "Germany",
+          "distance": 0.04271,
+          "strain": "EV-D68/Germany/2022/16",
+          "clade": "C"
+        },
+        {
+          "accession": "OP942380",
+          "year": 2022,
+          "country": "USA",
+          "distance": 0.043367,
+          "strain": "EV-D68/USA/2022/21",
+          "clade": "D"
+        },
+        {
+          "accession": "OP942376",
+          "year": 2022,
+          "country": "China",
+          "distance": 0.044628,
+          "strain": "EV-D68/China/2022/17",
+          "clade": "C"
+        },
+        {
+          "accession": "OP942367",
+          "year": 2022,
+          "country": "Japan",
+          "distance": 0.046276,
+          "strain": "EV-D68/Japan/2022/08",
+          "clade": "C"
+        },
+        {
+          "accession": "OP942362",
+          "year": 2022,
+          "country": "Netherlands",
+          "distance": 0.04653,
+          "strain": "EV-D68/Netherlands/2022/03",
+          "clade": "B"
+        },
+        {
+          "accession": "OP942365",
+          "year": 2022,
+          "country": "Japan",
+          "distance": 0.046615,
+          "strain": "EV-D68/Japan/2022/06",
+          "clade": "D"
+        },
+        {
+          "accession": "OP942360",
+          "year": 2022,
+          "country": "Germany",
+          "distance": 0.046698,
+          "strain": "EV-D68/Germany/2022/01",
+          "clade": "D"
+        },
+        {
+          "accession": "OP942364",
+          "year": 2022,
+          "country": "Japan",
+          "distance": 0.047141,
+          "strain": "EV-D68/Japan/2022/05",
+          "clade": "B"
+        },
+        {
+          "accession": "OP942370",
+          "year": 2022,
+          "country": "USA",
+          "distance": 0.052024,
+          "strain": "EV-D68/USA/2022/11",
+          "clade": "C"
+        },
+        {
+          "accession": "OP942373",
+          "year": 2022,
+          "country": "Australia",
+          "distance": 0.05346,
+          "strain": "EV-D68/Australia/2022/14",
+          "clade": "C"
+        },
+        {
+          "accession": "OP942378",
+          "year": 2022,
+          "country": "USA",
+          "distance": 0.055381,
+          "strain": "EV-D68/USA/2022/19",
+          "clade": "C"
+        },
+        {
+          "accession": "OP942372",
+          "year": 2022,
+          "country": "Spain",
+          "distance": 0.055892,
+          "strain": "EV-D68/Spain/2022/13",
+          "clade": "C"
+        },
+        {
+          "accession": "OP942366",
+          "year": 2022,
+          "country": "China",
+          "distance": 0.056084,
+          "strain": "EV-D68/China/2022/07",
+          "clade": "C"
+        },
+        {
+          "accession": "OP942368",
+          "year": 2022,
+          "country": "Netherlands",
+          "distance": 0.057693,
+          "strain": "EV-D68/Netherlands/2022/09",
+          "clade": "D"
+        },
+        {
+          "accession": "OP942374",
+          "year": 2022,
+          "country": "Germany",
+          "distance": 0.059013,
+          "strain": "EV-D68/Germany/2022/15",
+          "clade": "D"
+        },
+        {
+          "accession": "OP942369",
+          "year": 2022,
+          "country": "USA",
+          "distance": 0.059093,
+          "strain": "EV-D68/USA/2022/10",
+          "clade": "B"
+        },
+        {
+          "accession": "OP942379",
+          "year": 2022,
+          "country": "India",
+          "distance": 0.06003,
+          "strain": "EV-D68/India/2022/20",
+          "clade": "C"
+        },
+        {
+          "accession": "OP942363",
+          "year": 2022,
+          "country": "Germany",
+          "distance": 0.066188,
+          "strain": "EV-D68/Germany/2022/04",
+          "clade": "C"
+        },
+        {
+          "accession": "OP942371",
+          "year": 2022,
+          "country": "South Korea",
+          "distance": 0.067729,
+          "strain": "EV-D68/South_Korea/2022/12",
+          "clade": "C"
+        },
+        {
+          "accession": "OP942381",
+          "year": 2022,
+          "country": "United Kingdom",
+          "distance": 0.06914,
+          "strain": "EV-D68/United_Kingdom/2022/22",
+          "clade": "C"
+        },
+        {
+          "accession": "OP942361",
+          "year": 2022,
+          "country": "Sweden",
+          "distance": 0.070736,
+          "strain": "EV-D68/Sweden/2022/02",
+          "clade": "D"
+        },
+        {
+          "accession": "OP942377",
+          "year": 2022,
+          "country": "USA",
+          "distance": 0.075408,
+          "strain": "EV-D68/USA/2022/18",
+          "clade": "C"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "count": 18,
+      "mean": 0.071465,
+      "stdev": 0.012748,
+      "min": 0.047646,
+      "max": 0.089268,
+      "sequences": [
+        {
+          "accession": "OR942391",
+          "year": 2023,
+          "country": "Japan",
+          "distance": 0.047646,
+          "strain": "EV-D68/Japan/2023/02",
+          "clade": "D"
+        },
+        {
+          "accession": "OR942397",
+          "year": 2023,
+          "country": "Brazil",
+          "distance": 0.055186,
+          "strain": "EV-D68/Brazil/2023/08",
+          "clade": "C"
+        },
+        {
+          "accession": "OR942402",
+          "year": 2023,
+          "country": "USA",
+          "distance": 0.058713,
+          "strain": "EV-D68/USA/2023/13",
+          "clade": "D"
+        },
+        {
+          "accession": "OR942400",
+          "year": 2023,
+          "country": "USA",
+          "distance": 0.059808,
+          "strain": "EV-D68/USA/2023/11",
+          "clade": "C"
+        },
+        {
+          "accession": "OR942405",
+          "year": 2023,
+          "country": "USA",
+          "distance": 0.06115,
+          "strain": "EV-D68/USA/2023/16",
+          "clade": "D"
+        },
+        {
+          "accession": "OR942396",
+          "year": 2023,
+          "country": "Netherlands",
+          "distance": 0.061783,
+          "strain": "EV-D68/Netherlands/2023/07",
+          "clade": "D"
+        },
+        {
+          "accession": "OR942395",
+          "year": 2023,
+          "country": "USA",
+          "distance": 0.063598,
+          "strain": "EV-D68/USA/2023/06",
+          "clade": "B"
+        },
+        {
+          "accession": "OR942401",
+          "year": 2023,
+          "country": "Germany",
+          "distance": 0.067549,
+          "strain": "EV-D68/Germany/2023/12",
+          "clade": "D"
+        },
+        {
+          "accession": "OR942404",
+          "year": 2023,
+          "country": "Australia",
+          "distance": 0.068298,
+          "strain": "EV-D68/Australia/2023/15",
+          "clade": "B"
+        },
+        {
+          "accession": "OR942394",
+          "year": 2023,
+          "country": "Canada",
+          "distance": 0.073379,
+          "strain": "EV-D68/Canada/2023/05",
+          "clade": "D"
+        },
+        {
+          "accession": "OR942390",
+          "year": 2023,
+          "country": "USA",
+          "distance": 0.074337,
+          "strain": "EV-D68/USA/2023/01",
+          "clade": "D"
+        },
+        {
+          "accession": "OR942407",
+          "year": 2023,
+          "country": "Brazil",
+          "distance": 0.081536,
+          "strain": "EV-D68/Brazil/2023/18",
+          "clade": "B"
+        },
+        {
+          "accession": "OR942392",
+          "year": 2023,
+          "country": "USA",
+          "distance": 0.082236,
+          "strain": "EV-D68/USA/2023/03",
+          "clade": "D"
+        },
+        {
+          "accession": "OR942393",
+          "year": 2023,
+          "country": "Netherlands",
+          "distance": 0.084168,
+          "strain": "EV-D68/Netherlands/2023/04",
+          "clade": "B"
+        },
+        {
+          "accession": "OR942398",
+          "year": 2023,
+          "country": "USA",
+          "distance": 0.084328,
+          "strain": "EV-D68/USA/2023/09",
+          "clade": "C"
+        },
+        {
+          "accession": "OR942403",
+          "year": 2023,
+          "country": "Italy",
+          "distance": 0.084777,
+          "strain": "EV-D68/Italy/2023/14",
+          "clade": "C"
+        },
+        {
+          "accession": "OR942399",
+          "year": 2023,
+          "country": "USA",
+          "distance": 0.088618,
+          "strain": "EV-D68/USA/2023/10",
+          "clade": "D"
+        },
+        {
+          "accession": "OR942406",
+          "year": 2023,
+          "country": "Germany",
+          "distance": 0.089268,
+          "strain": "EV-D68/Germany/2023/17",
+          "clade": "D"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "count": 15,
+      "mean": 0.076255,
+      "stdev": 0.021529,
+      "min": 0.043024,
+      "max": 0.120592,
+      "sequences": [
+        {
+          "accession": "PQ942423",
+          "year": 2024,
+          "country": "Netherlands",
+          "distance": 0.043024,
+          "strain": "EV-D68/Netherlands/2024/04",
+          "clade": "D"
+        },
+        {
+          "accession": "PQ942424",
+          "year": 2024,
+          "country": "USA",
+          "distance": 0.052308,
+          "strain": "EV-D68/USA/2024/05",
+          "clade": "D"
+        },
+        {
+          "accession": "PQ942422",
+          "year": 2024,
+          "country": "USA",
+          "distance": 0.05467,
+          "strain": "EV-D68/USA/2024/03",
+          "clade": "C"
+        },
+        {
+          "accession": "PQ942433",
+          "year": 2024,
+          "country": "USA",
+          "distance": 0.06026,
+          "strain": "EV-D68/USA/2024/14",
+          "clade": "D"
+        },
+        {
+          "accession": "PQ942426",
+          "year": 2024,
+          "country": "Germany",
+          "distance": 0.061953,
+          "strain": "EV-D68/Germany/2024/07",
+          "clade": "D"
+        },
+        {
+          "accession": "PQ942425",
+          "year": 2024,
+          "country": "USA",
+          "distance": 0.068106,
+          "strain": "EV-D68/USA/2024/06",
+          "clade": "C"
+        },
+        {
+          "accession": "PQ942434",
+          "year": 2024,
+          "country": "USA",
+          "distance": 0.07038,
+          "strain": "EV-D68/USA/2024/15",
+          "clade": "D"
+        },
+        {
+          "accession": "PQ942429",
+          "year": 2024,
+          "country": "Germany",
+          "distance": 0.075909,
+          "strain": "EV-D68/Germany/2024/10",
+          "clade": "B"
+        },
+        {
+          "accession": "PQ942421",
+          "year": 2024,
+          "country": "Germany",
+          "distance": 0.07605,
+          "strain": "EV-D68/Germany/2024/02",
+          "clade": "D"
+        },
+        {
+          "accession": "PQ942428",
+          "year": 2024,
+          "country": "Brazil",
+          "distance": 0.081756,
+          "strain": "EV-D68/Brazil/2024/09",
+          "clade": "C"
+        },
+        {
+          "accession": "PQ942431",
+          "year": 2024,
+          "country": "USA",
+          "distance": 0.08196,
+          "strain": "EV-D68/USA/2024/12",
+          "clade": "D"
+        },
+        {
+          "accession": "PQ942427",
+          "year": 2024,
+          "country": "Sweden",
+          "distance": 0.08785,
+          "strain": "EV-D68/Sweden/2024/08",
+          "clade": "D"
+        },
+        {
+          "accession": "PQ942432",
+          "year": 2024,
+          "country": "USA",
+          "distance": 0.100999,
+          "strain": "EV-D68/USA/2024/13",
+          "clade": "B"
+        },
+        {
+          "accession": "PQ942420",
+          "year": 2024,
+          "country": "Brazil",
+          "distance": 0.108012,
+          "strain": "EV-D68/Brazil/2024/01",
+          "clade": "C"
+        },
+        {
+          "accession": "PQ942430",
+          "year": 2024,
+          "country": "USA",
+          "distance": 0.120592,
+          "strain": "EV-D68/USA/2024/11",
+          "clade": "C"
+        }
+      ]
+    }
+  ],
+  "total_sequences": 197
+}

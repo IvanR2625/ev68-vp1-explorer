@@ -1,0 +1,7 @@
+pipeline/temp/
+web/node_modules/
+web/dist/
+__pycache__/
+*.pyc
+.env
+*.egg-info/

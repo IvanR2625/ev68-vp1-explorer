@@ -1,0 +1,32 @@
+{
+  "virus": "Enterovirus D68",
+  "gene": "VP1",
+  "description": "VP1 (Viral Protein 1) is the primary surface-exposed capsid protein of Enterovirus D68. It determines receptor binding and antibody neutralization, and is used for genotype classification into clades A–D. EV-D68 caused large outbreaks of severe respiratory illness and acute flaccid myelitis (AFM) in 2014, 2016, 2018, and 2022 in North America and Europe.",
+  "start_year": 2014,
+  "end_year": 2024,
+  "total_sequences": 197,
+  "countries": [
+    "Australia",
+    "Brazil",
+    "Canada",
+    "China",
+    "France",
+    "Germany",
+    "India",
+    "Italy",
+    "Japan",
+    "Netherlands",
+    "South Korea",
+    "Spain",
+    "Sweden",
+    "USA",
+    "United Kingdom"
+  ],
+  "year_range": [
+    2014,
+    2024
+  ],
+  "data_source": "NCBI Nucleotide (sample data — run pipeline for real sequences)",
+  "last_updated": "2026-10-02",
+  "is_sample": true
+}

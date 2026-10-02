@@ -1,0 +1,6 @@
+biopython>=1.83
+pandas>=2.1.0
+numpy>=1.26.0
+scipy>=1.11.0
+requests>=2.31.0
+tqdm>=4.66.0

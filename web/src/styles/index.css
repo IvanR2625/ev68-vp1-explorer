@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-surface-900 text-slate-100 antialiased;
+  font-family: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #1e293b; }
+::-webkit-scrollbar-thumb { background: #475569; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #64748b; }
+
+/* Tree SVG */
+.tree-svg text { font-family: ui-monospace, monospace; }
+.tree-svg .link { fill: none; }
+.tree-svg .leaf circle { cursor: pointer; transition: r 0.1s; }
+.tree-svg .leaf circle:hover { r: 5; }
+
+/* Tooltip */
+.tooltip {
+  @apply absolute z-50 rounded-lg border border-slate-700 bg-surface-800
+         px-3 py-2 text-xs text-slate-100 shadow-xl pointer-events-none;
+  max-width: 220px;
+}
