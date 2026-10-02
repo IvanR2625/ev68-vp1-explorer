@@ -6,7 +6,7 @@ from NCBI Nucleotide.
 
 ## Live demo
 
-Deployed on Vercel — see the hosted link after following the deploy steps below.
+Deployed on Vercel — https://temporary-instant-thunder-bcapa5b.vercel.app/ 
 
 ## What it shows
 
