@@ -6,7 +6,7 @@ from NCBI Nucleotide.
 
 ## Live demo
 
-Deployed on Vercel — https://temporary-instant-thunder-bcapa5b.vercel.app/ 
+Deployed on Vercel — https://temporary-snappy-birch-9ku556s.vercel.app/ (older version https://temporary-instant-thunder-bcapa5b.vercel.app/ )
 
 ## What it shows
 
