@@ -27,7 +27,7 @@ export default function Header({ meta }) {
             NCBI Virus ↗
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/IvanR2625/ev68-vp1-explorer"
             target="_blank"
             rel="noreferrer"
             className="rounded-lg border border-slate-700 px-3 py-1.5 text-xs text-slate-300
